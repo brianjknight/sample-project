@@ -9,3 +9,4 @@
 
 ### Contributors
 - Brian Knight
+- William Wallace
